@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1af8d607d1e9fbe2",
+        "id": "b7838f818cce9982",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3401d6d9469e18",
+            "id": "b4a00f5782ff6df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Data Structure.md",
+                "file": "Go/Project/Building Blockchain in Go/Basic Prototype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structure"
+              "title": "Basic Prototype"
             }
           }
         ]
@@ -152,16 +152,26 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0bbfbe1dce7081f3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,28 +181,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "67cdcc3837378142",
+  "active": "b4a00f5782ff6df7",
   "lastOpenFiles": [
-    "Go/Drawing 2025-05-12 23.43.04.excalidraw.md",
-    "Go/Data Structure.md",
+    "Go/Project/Building Blockchain in Go/Building Blockchain in Go.md",
+    "Go/Project/Building Blockchain in Go/Basic Prototype.md",
+    "Go/Golang.md",
+    "Go/Learning/Methods and Interfaces.md",
+    "Go/Learning/Fundamental.md",
+    "Go/Project/Building Blockchain in Go",
+    "Clippings",
+    "Go/Learning/Data Structure.md",
+    "Go/Learning/Go Slices usage and internals.md",
+    "Go/Learning",
+    "Go/Project",
+    "Untitled",
+    "Go/Learning/Flow Control.md",
+    "Go/Learning/Defer, Panic, and Recover.md",
     "Excalidraw/Testing.md",
+    "Excalidraw/Drawing 2025-05-13 00.19.36.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Go/Drawing 2025-05-12 23.43.04.excalidraw.md",
     "Untitled.md",
-    "Go/Methods and Interfaces.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-05-12 23.31.22.excalidraw.md",
-    "Go/Defer, Panic, and Recover.md",
-    "Go/Flow Control.md",
-    "Go/Fundamental.md",
-    "Go/Golang.md",
     "2025-05-08.md",
-    "Go/Go Slices usage and internals.md",
-    "Go/Go's Declaration Syntax.md",
+    "Go/Learning/Go's Declaration Syntax.md",
     "4773.png",
     "Untitled.canvas",
     "2024-11-28.md",
