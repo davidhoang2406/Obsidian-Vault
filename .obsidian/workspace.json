@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Project/Building Blockchain in Go/Basic Prototype.md",
+                "file": "Go/Learning/Pointers/Memory layout and copying behavior of structs in Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Prototype"
+              "title": "Memory layout and copying behavior of structs in Go"
             }
           }
         ]
@@ -189,9 +189,14 @@
   },
   "active": "b4a00f5782ff6df7",
   "lastOpenFiles": [
-    "Go/Project/Building Blockchain in Go/Building Blockchain in Go.md",
-    "Go/Project/Building Blockchain in Go/Basic Prototype.md",
+    "Go/Learning/Pointers/Pointers.md",
+    "Go/Learning/Pointers/Memory layout and copying behavior of structs in Go.md",
+    "Go/Learning/Pointers/Non-pointer Struct.md",
+    "Go/Learning/Pointers/Pointer Design.md",
+    "Go/Learning/Pointers",
     "Go/Golang.md",
+    "Go/Project/Building Blockchain in Go/Basic Prototype.md",
+    "Go/Project/Building Blockchain in Go/Building Blockchain in Go.md",
     "Go/Learning/Methods and Interfaces.md",
     "Go/Learning/Fundamental.md",
     "Go/Project/Building Blockchain in Go",

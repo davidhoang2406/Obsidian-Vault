@@ -6,5 +6,6 @@
 5. [[Go Slices usage and internals]]
 6. [[Go's Declaration Syntax]]
 7. [[Flow Control]]
+8. [[Pointers]]
 ## Project Go
 1. [[Building Blockchain in Go]]
