@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Learning/Pointers/Memory layout and copying behavior of structs in Go.md",
+                "file": "Go/Project/Building Blockchain in Go/Proof-of-Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory layout and copying behavior of structs in Go"
+              "title": "Proof-of-Work"
             }
           }
         ]
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Go/Project/Building Blockchain in Go/Proof-of-Work.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Proof-of-Work"
             }
           },
           {
@@ -152,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -187,21 +190,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b4a00f5782ff6df7",
+  "active": "0bbfbe1dce7081f3",
   "lastOpenFiles": [
-    "Go/Learning/Pointers/Pointers.md",
+    "Go/Project/Building Blockchain in Go/Building Blockchain in Go.md",
+    "Go/Project/Building Blockchain in Go/Proof-of-Work.md",
+    "Go/Project/Building Blockchain in Go/Basic Prototype.md",
+    "Go/Project/Building Blockchain in Go/Proof of Work.md",
+    "Clippings",
     "Go/Learning/Pointers/Memory layout and copying behavior of structs in Go.md",
     "Go/Learning/Pointers/Non-pointer Struct.md",
+    "Go/Learning/Data Structure.md",
+    "Go/Learning/Pointers/Pointers.md",
     "Go/Learning/Pointers/Pointer Design.md",
     "Go/Learning/Pointers",
     "Go/Golang.md",
-    "Go/Project/Building Blockchain in Go/Basic Prototype.md",
-    "Go/Project/Building Blockchain in Go/Building Blockchain in Go.md",
     "Go/Learning/Methods and Interfaces.md",
     "Go/Learning/Fundamental.md",
     "Go/Project/Building Blockchain in Go",
-    "Clippings",
-    "Go/Learning/Data Structure.md",
     "Go/Learning/Go Slices usage and internals.md",
     "Go/Learning",
     "Go/Project",
