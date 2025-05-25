@@ -2,3 +2,6 @@
 2. [[Proof-of-Work]]
 3. [[Persistence and CLI]]
 4. [[Transactions part 1]]
+5. [[Addresses]]
+6. [[Transactions part 2]]
+7. [[Network]]
