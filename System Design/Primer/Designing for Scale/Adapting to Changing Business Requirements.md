@@ -1,0 +1,7 @@
+Adapting business requirements offers a practical way to handle large traffic loads. While not strictly a technical approach, understanding these strategies demonstrates valuable experience and critical thinking skills in an interview setting.
+
+Consider a weekly sales event scenario: Instead of running all sales simultaneously for all users, the load can be distributed by allocating specific days for different product categories for specific regions. For instance, baby products might be featured on Day 1, followed by electronics on Day 2. This approach ensures more predictable traffic patterns and enables better resource allocation such as pre-loading the cache for the upcoming day and scaling out the read replicas for the specific regions.
+
+Another example involves handling consistency challenges during high-stakes events like eBay auctions. By temporarily displaying bid success messages on the frontend, the system can provide a seamless user experience while the backend resolves consistency issues asynchronously. Users will eventually see the correct status of their bid after the auction ends.
+
+While these are not technical solutions, bringing them up in an interview demonstrates your ability to think through the problem and provide practical solutions.
